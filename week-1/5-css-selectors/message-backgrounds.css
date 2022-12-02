@@ -1,1 +1,22 @@
 /* Add your CSS code below */
+message-backgrounds.css
+
+/* Add your CSS code below */
+
+/*First message */
+
+div[id="first-message"] {
+  background-color: red;
+}
+
+/*Second message */
+
+article:nth-child(2) {
+  background: cadetblue;
+}
+
+/*Third message */
+
+div[class="message--latest"] {
+  background-color: yellow;
+}
