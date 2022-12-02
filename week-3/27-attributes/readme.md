@@ -19,4 +19,8 @@ You should not be able to type anything in the Country field. And the delivery o
 
 **Extra Credit**
 
-What's the difference between `readonly` and `disabled`? See if you can understand this [question and answer](https://stackoverflow.com/questions/7730695/whats-the-difference-between-disabled-disabled-and-readonly-readonly-for-ht).
+What's the difference between `readonly` and `disabled`? See if you can understand this [question and answer][def].
+
+[def]: https://stackoverflow.com/questions/7730695/whats-the-difference-between-disabled-disabled-and-readonly-readonly-for-ht
+
+Disabled controls cannot receive focus, are not submitted with the form, and often do not act as controls until they are enabled. On the other hand, read-only controls can still work and still be focusable.
