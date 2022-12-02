@@ -1,1 +1,26 @@
 /* Add your CSS code below */
+styles.css
+
+/* Add your CSS code below */
+
+/* Add Color to The Links */
+a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.message__time {
+  font-size: 0.9rem;
+}
+
+.message--unread {
+  border-left: 2px blue solid;
+}
+
+.messages div:first-child {
+  opacity: 0.5;
+}
+.message {
+  line-height: 27px;
+}
