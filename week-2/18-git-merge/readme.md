@@ -20,6 +20,7 @@ You should see the following printed to the terminal, which tells you that you a
   green_links
 * master
   red_links
+
 ```
 
 Enter the following command into your terminal to create a new branch:
