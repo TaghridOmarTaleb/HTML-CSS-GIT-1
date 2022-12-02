@@ -3,7 +3,7 @@
 When using the `checkbox` or `radio` input types, you often need to group the options together. In this exercise, you will use a `<fieldset>` and `<legend>` to describe a group of options. Follow the steps below to complete this exercise.
 
 1. Add a `checkbox` input with a `<label>` for each of the following dietary requirements: Halal, Kosher, Vegetarian, Vegan, Gluten Free.
-2. Add a `<fieldset>` with a `<legend>` to describe all of the fields. The legend should say "Please select all of your dietary requirements".
+2. Add a `<fieldset>` with a `<legend>` to describe all of the fields. The legend should say "Please select all of your dietary requirementsg".
 
 When you are done, it should look like the image below.
 
